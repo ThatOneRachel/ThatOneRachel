@@ -6,7 +6,7 @@ My name is Raquel Ramos! I'm a Visual Design student at Universidade Federal do 
   1. I'm 20 years old
   2. I use she/her
   3. I'm a capricorn
-  4. fun facts🎉: I love Doctor Who, Nintendo, dogs of all kinds, music, and frogs 🐸
+  4. fun facts🎉: I love Doctor Who, Nintendo, dogs of all kinds, violing playing, and frogs 🐸
 
 - I am currently working on 🤖:
   1. iOS development 📱
