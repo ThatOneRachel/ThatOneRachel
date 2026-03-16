@@ -3,15 +3,14 @@
 My name is Raquel Ramos! I'm a Visual Design student at Universidade Federal do Rio Grande do Sul and I really like to code ✨ Here's what you need to know about me:
 
 - Personal facts 🤔:
-  1. I'm 20 years old
+  1. I'm 22 years old
   2. I use she/her
   3. I'm a capricorn
-  4. fun facts🎉: I love Doctor Who, Nintendo, dogs of all kinds, violing playing, and frogs 🐸
+  4. fun facts🎉: I love Doctor Who, Nintendo, dogs of all kinds, violing playing, frogs and ducks
 
 - I am currently working on 🤖:
   1. iOS development 📱
   2. UX/UI design 🖌️
-  3. Project Managment 🫡
 
 - I'm interested in ❤️:
   1. Visual Design 🎨
@@ -26,8 +25,9 @@ My name is Raquel Ramos! I'm a Visual Design student at Universidade Federal do 
  
 - And these are the design tools I know how to use 🖱️:
   1. Figma -> for interface design
-  2. Illustrator -> for vectorial illustration
-  3. Krita -> for raster graphics and digital art
+  2. After Effects -> for animation and motion design
+  3. Illustrator -> for vectorial illustration
+  4. Krita & Photoshop -> for raster graphics and digital art
 
 - Here's how to reach me 📫:
   1. linkedIn: https://www.linkedin.com/in/raquel-da-silva-ramos-b94516247/
